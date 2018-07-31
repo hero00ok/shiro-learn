@@ -1,0 +1,7 @@
+127.0.0.1  localhost
+127.0.0.1  www.sso.com
+127.0.0.1  www.red.com
+127.0.0.1  www.yellow.com
+127.0.0.1  www.crm.com
+104.28.2.6  doub.io
+0.0.0.0 account.jetbrains.com
